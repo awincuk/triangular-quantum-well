@@ -17,7 +17,7 @@ A general solution for a differential equation x” - ax = 0 is the Airy functio
 ![](/examples/psi.jpg)
 <br />
 and energies: <br />
-![](/examples/energies.jpg) <br />
+![](/examples/energies.png) <br />
 where Cn is n-th zero of Airy function. Its zeros are approximately given by:<br />
 ![](/examples/zeros.jpg)
          
