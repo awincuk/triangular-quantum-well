@@ -2,7 +2,7 @@
 =================
 
 some MATLAB code to analyze an 1D triangular quantum well
-tri_qw.m calculates the energy levels and the wave functions for valance or conducting band in 1 dimentional triangular quantum well.
+**tri_qw.m** calculates the energy levels and the wave functions for valance or conducting band in 1 dimentional triangular quantum well.
 ### Explanation
 A triangular quantum well with constant electric field, F, and an infinite barrier at z = 0 was considered. 
 ![](/examples/scheme.png)
