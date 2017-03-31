@@ -17,9 +17,9 @@ A general solution for a differentiate equation x” - ax = 0 is the Airy functi
 ![](/examples/psi.jpg)
 <br />
 and energies: <br />
-![](/examples/energies.png) <br />
+![](/examples/energies.jpg) <br />
 where Cn is n-th zero of Airy function. Its zeros are approximately given by:<br />
-![](/examples/zeros.png)
+![](/examples/zeros.jpg)
          
 ### Here are some example output plots
 
