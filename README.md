@@ -7,7 +7,7 @@ some MATLAB code to analyze an 1D triangular quantum well
 A triangular quantum well with constant electric field, F, and an infinite barrier at z = 0 was considered. 
 ![](/examples/scheme.png)
 <br />
-**Figure 1.__Potential of a triangular quantum well with electric field F.__**
+**Figure 1.** *Potential of a triangular quantum well with electric field F.*
 
 Schrodinger’s equation for this potential becomes:
 ![](/examples/equation.jpg)
