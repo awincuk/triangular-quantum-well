@@ -12,16 +12,17 @@ A triangular quantum well with constant electric field, F, and an infinite barri
 Schrodinger’s equation for this potential becomes:
 ![](/examples/equation.jpg)
 
-A general solution for a differentiate equation x” - ax = 0 is the Airy function, therefore the solution to the Schrodinger equation is:
-![](/examples/pso.png)
-and energies:
-![](/examples/energies.png)
-where Cn is n-th zero of Airy function. Its zeros are approximately given by:
+A general solution for a differentiate equation x” - ax = 0 is the Airy function, therefore the solution to the Schrodinger equation is: <br />
+
+![](/examples/psi.jpg)
+<br />
+and energies: <br />
+![](/examples/energies.png) <br />
+where Cn is n-th zero of Airy function. Its zeros are approximately given by:<br />
 ![](/examples/zeros.png)
          
 ### Here are some example output plots
 
-![](/examples/IandV_vs_t.png)  
-![](/examples/PCE.png)  
-![](/examples/chargeStored.png)  
-![](/examples/segmentFit.png)  
+![](/examples/studnia_5MV.png)  
+![](/examples/studnia_lh_12MV.png)  
+  
