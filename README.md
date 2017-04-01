@@ -1,7 +1,7 @@
 1D TRIANGULAR QUANTUM WELL
 =================
 
-Some MATLAB code to analyze an 1D triangular quantum well. <br />
+Some MATLAB code to analyze a triangular quantum well. <br />
 **tri_qw.m** calculates the energy levels and the wave functions for valance or conduction band in 1 dimensional triangular quantum well. <br />
 The first section in the file is user editable. <br />
 Script is compatible with **Matlab R2016a**.
