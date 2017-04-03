@@ -28,5 +28,5 @@ where Cn is n-th zero of Airy function. Its zeros are approximately given by:<br
 ### Here are some example output plots
 ---
 ![](/examples/studnia_5MV.png)  
-![](/examples/studnia_lh_12MV.png)  
+![](/examples/studnia_lh_5MV.png)  
   
